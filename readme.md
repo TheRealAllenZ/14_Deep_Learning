@@ -1,12 +1,4 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "# DEEP_LEARNING \n",
-    "\n",
-    "### SOME PRELIMINARY CONCLUSIONS \n",
+"### SOME PRELIMINARY CONCLUSIONS \n",
     "\n",
     "***For : Clsoing Price *** \n",
     "\n",
@@ -42,35 +34,3 @@
     "Reviewing May to June, the consumer sentiment not only stays relatively stable, a huge dive of sentiment (near all-time-low) FNG during this 2 - month period, does not affect price whatsoever.  In fact, bitcoin Price ventures into a meotoric rise in spite of that negative sentiment to reach its all-time-high of $12,000; again, in spite of the negative FNG.  \n",
     "\n",
     "In closing, FNG, or consumer sentiment is truly a poor predictor for closing price having no relationship, and in soem cases even an inverse relationship to asset performance.  \n"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "Python [conda env:dev]",
-   "language": "python",
-   "name": "conda-env-dev-py"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.7.9"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 4
-}
