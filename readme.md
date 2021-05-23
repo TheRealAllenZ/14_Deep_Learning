@@ -1,6 +1,7 @@
+# Completed Work sit in [https://github.com/TheRealAllenZ/14_Deep_Learning/tree/master/Instructions/Starter_Code] Starter Code Directory
+
 # Conclusions
 
-![deep-learning.jpg](Images/deep-learning.jpg)
 
 ### CLOSING PRICE 
 
